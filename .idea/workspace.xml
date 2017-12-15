@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ca482c-cdb0-4772-bf88-a20c05d7955d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyExercises/02_01" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Exercise Files/Ch02/02_01 Begin/opencv-logo.png" afterPath="$PROJECT_DIR$/MyExercises/opencv-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise Files/Ch02/02_02 End/02_02.py" afterPath="$PROJECT_DIR$/Exercise Files/Ch02/02_02 End/02_02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/SimpleThreshold.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise Files/Ch03/03_07 Begin/detect_blob.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exercise Files/Ch03/03_03 Begin/sudoku.png" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/sudoku.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exercise Files/Ch03/03_04 Begin/faces.jpeg" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/faces.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exercise Files/Ch03/03_10 Begin/fuzzy.png" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/fuzzy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exercise Files/Ch03/tomatoes.jpg" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/tomatoes.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,6 +19,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonOpenCV$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1513352901188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonOpenCV$SimpleThreshold.coverage" NAME="SimpleThreshold Coverage Results" MODIFIED="1513368885854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises/ObjectDetection" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_01.coverage" NAME="02_01 Coverage Results" MODIFIED="1513353090439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch02/02_01 End" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_02.coverage" NAME="02_02 Coverage Results" MODIFIED="1513353095412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch02/02_02 End" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_03.coverage" NAME="02_03 Coverage Results" MODIFIED="1513357763412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin" />
@@ -24,11 +27,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02_01" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02_01" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyExercises/02_01">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleThreshold.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/SimpleThreshold.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -50,6 +65,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <dirStrings>
       <dir>C:\Users\Roberto\PycharmProjects\PythonOpenCV</dir>
@@ -64,6 +86,7 @@
         <option value="$PROJECT_DIR$/Exercise Files/Ch02/02_02 End/02_02.py" />
         <option value="$PROJECT_DIR$/Exercise Files/Ch02/02_01 End/02_01.py" />
         <option value="$PROJECT_DIR$/MyExercises/02_01" />
+        <option value="$PROJECT_DIR$/MyExercises/ObjectDetection/SimpleThreshold.py" />
       </list>
     </option>
   </component>
@@ -109,7 +132,73 @@
             <path>
               <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_02 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_03 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_04 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_06 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_07 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_08 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_10 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
               <item name="MyExercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="MyExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectDetection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,6 +213,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roberto\PycharmProjects\PythonOpenCV\MyExercises\ObjectDetection" />
       <recent name="C:\Users\Roberto\PycharmProjects\PythonOpenCV\MyExercises" />
     </key>
   </component>
@@ -139,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02_01 (1)">
+  <component name="RunManager" selected="Python.SimpleThreshold">
     <configuration name="02_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,6 +302,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="SimpleThreshold" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyExercises/ObjectDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonOpenCV" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyExercises/ObjectDetection/SimpleThreshold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,19 +338,21 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="Python.02_01" />
       <item index="2" class="java.lang.String" itemvalue="Python.02_02" />
       <item index="3" class="java.lang.String" itemvalue="Python.02_03" />
       <item index="4" class="java.lang.String" itemvalue="Python.02_01 (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Python.SimpleThreshold" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.02_01 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.02_03" />
-        <item index="2" class="java.lang.String" itemvalue="Python.02_02" />
-        <item index="3" class="java.lang.String" itemvalue="Python.02_01" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.SimpleThreshold" />
+        <item index="1" class="java.lang.String" itemvalue="Python.02_01 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.02_03" />
+        <item index="3" class="java.lang.String" itemvalue="Python.02_02" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02_01" />
       </list>
     </recent_temporary>
   </component>
@@ -264,8 +374,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -354,6 +465,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/SimpleThreshold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
