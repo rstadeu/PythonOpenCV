@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ca482c-cdb0-4772-bf88-a20c05d7955d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +17,37 @@
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_01.coverage" NAME="02_01 Coverage Results" MODIFIED="1513353090439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch02/02_01 End" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_02.coverage" NAME="02_02 Coverage Results" MODIFIED="1513353095412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch02/02_02 End" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$AdaptativeThreshold.coverage" NAME="AdaptativeThreshold Coverage Results" MODIFIED="1513370445102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises/ObjectDetection" />
-    <SUITE FILE_PATH="coverage/PythonOpenCV$SkinDetection.coverage" NAME="SkinDetection Coverage Results" MODIFIED="1513371352045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises/ObjectDetection" />
+    <SUITE FILE_PATH="coverage/PythonOpenCV$SkinDetection.coverage" NAME="SkinDetection Coverage Results" MODIFIED="1513417013088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises/ObjectDetection" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_03.coverage" NAME="02_03 Coverage Results" MODIFIED="1513357763412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_01__1_.coverage" NAME="02_01 (1) Coverage Results" MODIFIED="1513358391233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02_01" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyExercises/02_01">
+      <file leaf-file-name="02_03.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin/02_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_04.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_04 Begin/02_04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_04.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_04 End/02_04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -36,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleThreshold.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/SimpleThreshold.py">
+      <file leaf-file-name="02_03.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03 End/02_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -48,11 +67,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdaptativeThreshold.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/AdaptativeThreshold.py">
+      <file leaf-file-name="02_09.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_09 Begin/02_09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="99" lean-forward="false" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_08.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_08 Begin/02_08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_08.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_08 End/02_08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_07.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_07 End/02_07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -63,8 +116,8 @@
       <file leaf-file-name="SkinDetection.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="190">
+              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -72,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_01 End/02_01.py">
+      <file leaf-file-name="02_02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_02 End/02_02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="-989">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -156,6 +209,68 @@
               <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_02 End" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_03 End" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_04 End" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_05 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_07 End" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_08 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_08 End" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonOpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_09 Begin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonOpenCV" type="b2602c69:ProjectViewProjectNode" />
@@ -454,34 +569,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_02 End/02_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-755">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin/02_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyExercises/opencv-logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_01 End/02_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyExercises/02_01">
@@ -514,10 +604,144 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch03/03_03 Begin/03_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch03/03_04 Begin/03_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch03/03_06 Begin/03_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch03/03_07 Begin/03_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_01 End/02_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin/02_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_04 Begin/02_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_04 End/02_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_02 End/02_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-989">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03 End/02_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_09 Begin/02_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_08 Begin/02_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_08 End/02_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_07 End/02_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="190">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
