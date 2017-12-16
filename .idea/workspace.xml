@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ca482c-cdb0-4772-bf88-a20c05d7955d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyExercises/ObjectDetection/ContourObjectDetection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,20 +20,11 @@
     <SUITE FILE_PATH="coverage/PythonOpenCV$AdaptativeThreshold.coverage" NAME="AdaptativeThreshold Coverage Results" MODIFIED="1513370445102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises/ObjectDetection" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$SkinDetection.coverage" NAME="SkinDetection Coverage Results" MODIFIED="1513417013088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises/ObjectDetection" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_03.coverage" NAME="02_03 Coverage Results" MODIFIED="1513357763412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin" />
+    <SUITE FILE_PATH="coverage/PythonOpenCV$ContourObjectDetection.coverage" NAME="ContourObjectDetection Coverage Results" MODIFIED="1513418278934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises/ObjectDetection" />
     <SUITE FILE_PATH="coverage/PythonOpenCV$02_01__1_.coverage" NAME="02_01 (1) Coverage Results" MODIFIED="1513358391233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyExercises" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02_03.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin/02_03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="02_04.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise Files/Ch02/02_04 Begin/02_04.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +105,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SkinDetection.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SkinDetection.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="391">
               <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContourObjectDetection.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/ContourObjectDetection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -163,6 +167,7 @@
         <option value="$PROJECT_DIR$/MyExercises/ObjectDetection/SimpleThreshold.py" />
         <option value="$PROJECT_DIR$/MyExercises/ObjectDetection/AdaptativeThreshold.py" />
         <option value="$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py" />
+        <option value="$PROJECT_DIR$/MyExercises/ObjectDetection/ContourObjectDetection.py" />
       </list>
     </option>
   </component>
@@ -367,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SkinDetection">
+  <component name="RunManager" selected="Python.ContourObjectDetection">
     <configuration name="02_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,24 +391,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="02_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonOpenCV" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/Ch02/02_03 Begin/02_03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="AdaptativeThreshold" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -418,6 +405,24 @@
       <module name="PythonOpenCV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyExercises/ObjectDetection/AdaptativeThreshold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ContourObjectDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyExercises/ObjectDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonOpenCV" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyExercises/ObjectDetection/ContourObjectDetection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -478,19 +483,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Python.02_03" />
-      <item index="2" class="java.lang.String" itemvalue="Python.02_01 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SimpleThreshold" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AdaptativeThreshold" />
-      <item index="5" class="java.lang.String" itemvalue="Python.SkinDetection" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02_01 (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SimpleThreshold" />
+      <item index="3" class="java.lang.String" itemvalue="Python.AdaptativeThreshold" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SkinDetection" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ContourObjectDetection" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SkinDetection" />
-        <item index="1" class="java.lang.String" itemvalue="Python.AdaptativeThreshold" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SimpleThreshold" />
-        <item index="3" class="java.lang.String" itemvalue="Python.02_01 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.02_03" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ContourObjectDetection" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SkinDetection" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AdaptativeThreshold" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SimpleThreshold" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02_01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -740,8 +745,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/SkinDetection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="391">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExercises/ObjectDetection/ContourObjectDetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
